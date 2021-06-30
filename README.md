@@ -1,5 +1,7 @@
 # headless-nuxt-demo
 
+##Original conent made by Will Johnston
+
 ## Build Setup
 
 ```bash
